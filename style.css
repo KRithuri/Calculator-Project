@@ -41,3 +41,7 @@ form .display input{
     font-size: 24px;
     box-shadow: none;
 }
+/*increasing equal sign size*/
+form input.equal{
+    width: 145px;
+}
